@@ -1,4 +1,3 @@
-# myTools
 ## Powershell
 1. Oh my posh
 2. PS readline module
